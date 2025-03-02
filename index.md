@@ -1,11 +1,12 @@
-## Selected data science and machine learning projects
+## Selected projects in data science, machine learning and NLP
 
 ---
 
 ### ExplainableAI Model For Lung Disease Classification
 
-[Explainable AI model](/sample_page)
+## This is a test 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Explainable AI model](/sample_page)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
