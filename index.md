@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 [![Keras](https://img.shields.io/badge/Keras-white?logo=Keras&logoColor=red)](#) 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow&logoColor=blue)](#)
-[![](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](#)
+[![](https://img.shields.io/badge/opencv?logo=opencv&logoColor=green)](#)
 
 [View code in github](https://github.com/vidhipitroda/Explainable-Deep-Learning-for-Lung-Disease-detection-from-X-rays/blob/main/XAI%20Random%20image.ipynb) <br> 
 [View IEEE Publication](https://ieeexplore.ieee.org/document/9628573) <br>
