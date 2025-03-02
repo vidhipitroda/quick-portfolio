@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### ExplainableAI Model For Lung Disease Classification
 
-[Project 1 Title](/sample_page)
+[Explainable AI model](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
