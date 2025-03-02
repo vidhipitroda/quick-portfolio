@@ -1,4 +1,4 @@
-## Portfolio
+## Selected data science and machine learning projects
 
 ---
 
