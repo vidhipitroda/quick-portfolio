@@ -4,7 +4,7 @@
 
 ### ExplainableAI Model For Lung Disease Classification
 
-This is a test 
+<p>This is a test </p>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 [Explainable AI model](/sample_page)
 
