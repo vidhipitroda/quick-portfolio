@@ -8,7 +8,7 @@
 <img src="images/XAI output.png"/>
 [View code in github](https://github.com/vidhipitroda/Explainable-Deep-Learning-for-Lung-Disease-detection-from-X-rays/blob/main/XAI%20Random%20image.ipynb) <br> 
 [View IEEE Publication](https://ieeexplore.ieee.org/document/9628573)
-<button name="button" <img src="Python.png"/></button> <br>
+<button <img src="impages/Python.png"/></button> <br>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
