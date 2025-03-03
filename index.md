@@ -13,15 +13,17 @@
 
 [View code in github](https://github.com/vidhipitroda/Explainable-Deep-Learning-for-Lung-Disease-detection-from-X-rays/blob/main/XAI%20Random%20image.ipynb) <br> 
 [View IEEE Publication](https://ieeexplore.ieee.org/document/9628573) <br>
-<link rel="icon" type="image/x-icon" href="images/Python.png">
+<link rel="icon" type="image/x-icon" href="images/Python.png"> <br>
 
 ---
+### Book Recommendation Engine with LLM
+<p>Developed a semantic book recommendation system using LangChain, integrating FAISS for vector-based search and similarity retrieval. Implemented text classification and sentiment analysis with Hugging Face transformer models to enhance recommendation accuracy. Designed and deployed an interactive dashboard using Gradio, allowing users to seamlessly explore and engage with the recommendation engine.</p>
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src=""/>
 
 ---
 
