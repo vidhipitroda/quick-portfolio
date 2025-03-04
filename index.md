@@ -28,9 +28,9 @@
 [![NumPy](https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue)](#)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-white?logo=Matplotlib&logoColor=black)](#)
 [![Seaborn](https://img.shields.io/badge/seaborn-white?logo=Seaborn&logoColor=black)](#)
-[![Gradio](https://img.shields.io/badge/Gradio-white?logo=Gradio&logoColor=green)](#)
+[![Gradio](https://img.shields.io/badge/Gradio-white?logo=Gradio&logoColor=green)](#) <br>
 
-[View code in github](https://github.com/vidhipitroda/Explainable-Deep-Learning-for-Lung-Disease-detection-from-X-rays/blob/main/XAI%20Random%20image.ipynb) <br>
+[View code in github](https://github.com/vidhipitroda/Semantic-Book-Recommendation-using-LLM) <br>
 
 
 ---
