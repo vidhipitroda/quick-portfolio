@@ -22,8 +22,15 @@
 <img src="images/semantic book recommendation.png"/>
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
-[![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
+[![Pandas](https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=violet)](#)
 [![NumPy](https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue)]#
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-white?logo=Matplotlib&logoColor=black)]#
+[![Seaborn](https://img.shields.io/badge/seaborn-white?logo=Seaborn&logoColor=black)]#
+[![Gradio](https://img.shields.io/badge/Gradio-white?logo=Gradio&logoColor=green)]#
+
+[View code in github](https://github.com/vidhipitroda/Explainable-Deep-Learning-for-Lung-Disease-detection-from-X-rays/blob/main/XAI%20Random%20image.ipynb) <br>
+
+
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/XAI output.png"/>
