@@ -32,12 +32,11 @@
 
 [View code in github](https://github.com/vidhipitroda/Semantic-Book-Recommendation-using-LLM) <br>
 
-
 ---
 
 ### Speech Emotion Recognition
 
-<p>Implemented a CNN model to classify emotions from different audio dataset and achieved 67% accuracy </p>
+<p>A speech emotion recognition (SER) classifier was implemented using Python, Keras, and TensorFlow. This system automates the classification of emotional states from audio signals, employing feature extraction techniques to obtain MFCCs, zero-crossing rate, mel spectrograms, and root mean square values as input features. </p> <br>
 
 <img src="images/XAI output.png"/>
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
