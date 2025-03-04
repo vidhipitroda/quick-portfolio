@@ -38,7 +38,7 @@
 
 <p>A speech emotion recognition (SER) classifier was implemented using Python, Keras, and TensorFlow. This system automates the classification of emotional states from audio signals, employing feature extraction techniques to obtain MFCCs, zero-crossing rate, mel spectrograms, and root mean square values as input features. </p> <br>
 
-<img src="images/XAI output.png"/>
+<img src="images/emotions visualization.png"/>
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow&logoColor=blue)](#)
 [![Keras](https://img.shields.io/badge/Keras-white?logo=Keras&logoColor=red)](#) 
@@ -46,8 +46,7 @@
 [![Pandas](https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=violet)](#)
 [![NumPy](https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue)](#)
 
-
-[View code in github]((https://github.com/vidhipitroda/Speech-emotion-recognition/blob/main/Emotion%20recognition%20based%20on%20audio.ipynb)
+[View code in github](https://github.com/vidhipitroda/Speech-emotion-recognition/blob/main/Emotion%20recognition%20based%20on%20audio.ipynb)
 
 ---
 
