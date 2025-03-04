@@ -13,7 +13,7 @@
 
 [View code in github](https://github.com/vidhipitroda/Explainable-Deep-Learning-for-Lung-Disease-detection-from-X-rays/blob/main/XAI%20Random%20image.ipynb) <br> 
 [View IEEE Publication](https://ieeexplore.ieee.org/document/9628573) <br>
-<link rel="icon" type="image/x-icon" href="images/Python.png"> <br>
+<link rel="icon" type="image/x-icon" href="images/Python.png"> 
 
 ---
 ### Book Recommendation Engine with LLM
@@ -34,8 +34,21 @@
 
 
 ---
-[Project 3 Title](http://example.com/)
+
+### Speech Emotion Recognition
+
+<p>Implemented a CNN model to classify emotions from different audio dataset and achieved 67% accuracy </p>
+
 <img src="images/XAI output.png"/>
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow&logoColor=blue)](#)
+[![Keras](https://img.shields.io/badge/Keras-white?logo=Keras&logoColor=red)](#) 
+[![Sklearn](https://img.shields.io/badge/Sklearn-white?logo=Sklearn&logoColor=blue)](#)
+[![Pandas](https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=violet)](#)
+[![NumPy](https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue)](#)
+
+
+[View code in github]((https://github.com/vidhipitroda/Speech-emotion-recognition/blob/main/Emotion%20recognition%20based%20on%20audio.ipynb)
 
 ---
 
