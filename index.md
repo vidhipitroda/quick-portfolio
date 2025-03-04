@@ -23,7 +23,7 @@
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images."/>
+<img src="images/XAI output.png"/>
 
 ---
 
