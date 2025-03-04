@@ -18,8 +18,11 @@
 ---
 ### Book Recommendation Engine with LLM
 <p>Developed a semantic book recommendation system using LangChain, integrating FAISS for vector-based search and similarity retrieval. Implemented text classification and sentiment analysis with Hugging Face transformer models to enhance recommendation accuracy. Designed and deployed an interactive dashboard using Gradio, allowing users to seamlessly explore and engage with the recommendation engine.</p>
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/XAI output.png"/>
+
+<img src="images/semantic book recommendation.png"/>
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+[![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
 
 ---
 [Project 3 Title](http://example.com/)
