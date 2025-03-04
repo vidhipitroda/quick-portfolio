@@ -23,7 +23,7 @@
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
-
+[![NumPy](https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue)]#
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/XAI output.png"/>
