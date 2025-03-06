@@ -12,7 +12,7 @@
 [![OpenCV](https://img.shields.io/badge/opencv-white?logo=OpenCV&logoColor=green)](#)
 
 [View code in github](https://github.com/vidhipitroda/Explainable-Deep-Learning-for-Lung-Disease-detection-from-X-rays/blob/main/XAI%20Random%20image.ipynb) <br> 
-[View IEEE Publication](https://ieeexplore.ieee.org/document/9628573) <br>
+[View Publication](https://ieeexplore.ieee.org/document/9628573) <br>
 <link rel="icon" type="image/x-icon" href="images/Python.png"> 
 
 ---
